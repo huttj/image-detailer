@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "dotenv-safe": "^9.1.0",
+    "exiftool-vendored": "^29.1.0",
+    "fs": "^0.0.1-security",
+    "openai": "^4.83.0",
+    "p-limit": "^6.2.0",
+    "path": "^0.12.7",
+    "tmp": "^0.2.3"
+  }
+}
